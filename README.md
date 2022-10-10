@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Eda </h1>
 <h3 align="center">SOFTWARE TESTER</h3>
 
-- 🌱 I’m currently learning **Java,Selenium,SDLC,Jira,Git-Github,SQl**
+- 🌱 I’m currently learning **Java,Selenium,STLC,Jira,Git-Github,SQl**
 
 - 📫 How to reach me **ekrhnn@gmail.com / https://www.linkedin.com/in/edakurt-/**
 
